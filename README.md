@@ -29,3 +29,6 @@ Discord Bot Developer
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<img alt="snake animation" src="https://raw.githubusercontent.com/mrjohnny351/mrjohnny351/refs/heads/output/github-contribution-grid-snake.svg">
+
